@@ -1,0 +1,17 @@
+.root {
+	-fx-background-color: black;
+}
+
+.button {
+	-fx-background-color: red;
+	-fx-color: green;
+	-fx-border-style: solid;
+}
+
+.hallo {
+	-fx-background-color: blue;
+}
+
+.hallo:hover {
+	-fx-background-color: green;
+}
